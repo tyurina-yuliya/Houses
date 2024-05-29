@@ -1,0 +1,69 @@
+/* 1107 - 1229 */
+@media screen and (max-width: 1229px) {
+  .container {
+    padding: 0 20px;
+  }
+  .projects .projects-house {
+    column-gap: 18px;
+  }
+  .technologies .container {
+    max-width: 1000px;
+  }
+  .technologies .container .technologies-block5 {
+    left: 11px;
+    top: -529px;
+  }
+  .technologies .container .technologies-block5 .animation-point {
+    left: -76px;
+  }
+  .technologies .container .technologies-block5 .animation-circle {
+    left: -54px;
+  }
+  .technologies .container .technologies-block5:before {
+    display: none;
+  }
+  .technologies .container .technologies-block5:after {
+    display: none;
+  }
+  .steps .steps-blocks {
+    gap: 83px 58px;
+  }
+  .houses .container .slider .slider-prev-arrow {
+    left: 480px;
+    top: 20px;
+  }
+  .houses .container .slider .slider-next-arrow {
+    right: 480px;
+    top: 20px;
+  }
+  .payment .payment-square {
+    display: block;
+  }
+  .payment .payment-square .payment-square-block {
+    margin-bottom: 20px;
+  }
+  .consultation .container {
+    column-gap: 5px;
+  }
+  .consultation .container .consultation-form .consultation-form-title {
+    font-size: 33px;
+  }
+}
+/* 1024 - 1106 */
+@media screen and (max-width: 1106px) {
+  .projects .projects-house .projects-house-info .projects-house-info-description {
+    font-size: 16px;
+  }
+  .steps .steps-title {
+    text-align: left;
+  }
+}
+/* 890 - 1023 */
+/* 830 - 889 */
+/* 768 - 829 */
+/* 580 - 767 */
+/* 425 - 579 */
+/* 375 - 424 */
+/* 320 - 374 */
+
+/*# sourceMappingURL=adaptive.css.map */
