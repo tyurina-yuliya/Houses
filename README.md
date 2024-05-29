@@ -3,7 +3,7 @@ Available at GitHub pages: https://tyurina-yuliya.github.io/houses/
 
 Used technologies:
 HTML5,
-CSS3,
+SCSS,
 JavaScript ES6,
 jQuery,
 Bootstrap,
